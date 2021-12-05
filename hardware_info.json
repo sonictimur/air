@@ -1,0 +1,34 @@
+{
+	"Arduino_Sensor_A1":
+	{
+        "Hardware_Status": "Offline",
+		"Organization": "Westminister International University in Tashkent",
+		"Room": "Lyceum Hall",
+		"Temperature": "N/A",
+		"Humidity": "N/A",
+        "UV_Radiation": "N/A",
+        "Light_Level": "N/A"
+	},
+
+    "Arduino_Sensor_A2":
+	{
+        "Hardware_Status": "Offline",
+		"Organization": "Westminister International University in Tashkent",
+		"Room": "Room 408, SHB",
+		"Temperature": "N/A",
+		"Humidity": "N/A",
+        "UV_Radiation": "N/A",
+        "Light_Level": "N/A"
+	},
+
+    "Arduino_Sensor_A3":
+	{
+        "Hardware_Status": "Offline",
+		"Organization": "Westminister International University in Tashkent",
+		"Room": "Sports Hall, Spectator Area",
+		"Temperature": "N/A",
+		"Humidity": "N/A",
+        "UV_Radiation": "N/A",
+        "Light_Level": "N/A"
+	}
+}
